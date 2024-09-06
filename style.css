@@ -1,0 +1,141 @@
+.page{
+    background-color: aquamarine;
+    width: 100%;
+    /* height: 900px; */
+}
+.head1{
+    background-color: #394454;
+    width: 100%;
+    height: 150px;
+}
+.head2{
+    background-color: #616a78;
+    width: 100%;
+    height: 50px;
+}
+.text{
+    width: 220px;
+    height: 100px;
+    float: left;
+    text-align: right;
+    line-height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #a34729;
+    font-size: 35px;
+    margin: 5px;
+}
+.text2{
+    width: 220px;
+    height: 100px;
+    float: left;
+    text-align: left;
+    line-height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 35px;
+    margin: 5px;
+}
+.navbar{
+    width: 300px;
+    height: 100px;
+    float: right;
+}
+.nav{
+    width: 90px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    line-height: 150px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #a34729;
+}
+.nav2{
+    width: 90px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    line-height: 150px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.nav3{
+    width: 90px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    line-height: 150px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.body{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 400px;
+    line-height: 300px;
+    text-align: center;
+}
+.foot1{
+    background-color: #394454;
+    width: 100%;
+    height: 120px;
+}
+.subscribe{
+    width: 500px;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.contain{
+    float: right;
+}
+.btn{
+    background-color: #b53e18;
+    color: white;
+}
+.textbox{
+    width: 200px;
+    height: 50px;
+    float: right;
+    margin: 25px;
+}
+.foot2{
+    background-color: white;
+    width: 100%;
+    height: 120px;
+    float: left;
+    text-align: center;
+}
+.ftext{
+    width: 33.3%;
+    height: 120px;
+    float: left;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 600;
+}
+.ftext2{
+    width: 33.3%;
+    height: 120px;
+    float: left;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 600
+}
+.ftext3{
+    width: 33.3%;
+    height: 120px;
+    float: left;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 600
+}
+.foot3{
+    background-color: #b53e18;
+    width: 100%;
+    height: 160px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+}
